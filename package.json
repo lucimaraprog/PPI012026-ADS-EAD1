@@ -1,0 +1,22 @@
+{
+  "name": "ppi012026-ads-ead1",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na primeira aula de PPI",
+  "homepage": "https://github.com/lucimaraprog/PPI012026-ADS-EAD1#readme",
+  "bugs": {
+    "url": "https://github.com/lucimaraprog/PPI012026-ADS-EAD1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucimaraprog/PPI012026-ADS-EAD1.git"
+  },
+  "license": "ISC",
+  "author": "Lucimara da Silva",
+  "type": "module",
+  "main": "index.js",
+ 
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
